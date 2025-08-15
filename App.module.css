@@ -1,0 +1,14 @@
+/* Vamos criar um container para os cards do topo */
+.visaoGeralContainer {
+  background-color: #1a202c; /* Um cinza um pouco mais claro */
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 1rem;
+}
+
+.tituloVisaoGeral {
+  color: #a0aec0; /* Cor cinza claro para o texto */
+  font-size: 1.5rem; /* Aumenta o tamanho da fonte */
+  margin-bottom: 1rem;
+  text-align: center;
+}
